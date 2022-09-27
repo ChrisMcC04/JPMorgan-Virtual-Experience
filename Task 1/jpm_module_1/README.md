@@ -1,4 +1,4 @@
-Module 1
+#Module 1
 
 You’ve been asked to assist with some development to add a chart to a trader’s dashboard allowing them to better identify under/over-valued stocks.
 
